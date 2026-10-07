@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/leonard-yohanes-939320318/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:leonard@email.com)
 ![Tools](https://img.shields.io/badge/Tools-SPSS%20|%20STATA%20|%20Power%20BI%20|%20Excel%20|%20Python%20|%20SQL-1B4F8A?style=flat)
-<img src="leonard_profile.jpg" width="160" height="160" style="border-radius:50%;" alt="Leonard Yohanes Mathayo"/>
-
 </div>
 
 ---
