@@ -1,6 +1,8 @@
 <div align="center">
-# 📊 Leonard Yohanes Mathayo
-### Data Analyst Portfolio
+  
+   # 📊 Leonard Yohanes Mathayo
+   
+   ### Data Analyst Portfolio
 
 *Mathematics & Statistics | University of Dar es Salaam*
 *Dar es Salaam, Tanzania 🇹🇿*
