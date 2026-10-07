@@ -1,5 +1,5 @@
-# leonardyohanes135
-# Hi, I'm [Your Name]! 👋
+
+# Hi, I'm Leonard Yohanes! 👋
 A data analyst passionate about solving business problems using data-driven insights.
 
 ### 🛠️ Tech Stack
