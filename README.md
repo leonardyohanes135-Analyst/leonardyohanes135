@@ -186,7 +186,7 @@ I am open to **freelance data analysis projects**, **research collaborations**, 
 | Platform | Link |
 |---|---|
 | LinkedIn | [Leonard Yohanes Mathayo](https://www.linkedin.com/in/leonard-yohanes-939320318/) |
-| Email | leonard@email.com |
+| Email | leonardyohanes135@email.com |
 | Location | Dar es Salaam, Tanzania 🇹🇿 |
 
 ---
